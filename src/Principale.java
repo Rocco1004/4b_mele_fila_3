@@ -11,8 +11,11 @@ public class Principale {
 	public static void main(String[] args) {
 		
 		System.out.println("rocco mele");
+		
 		System.out.println("Romano Marco");
+		
 		System.out.println("Parisi Alessio");
+		
+		System.out.println("Maurici MIchele");
 	}
-
 }
