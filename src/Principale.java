@@ -17,5 +17,7 @@ public class Principale {
 		System.out.println("Parisi Alessio");
 		
 		System.out.println("Maurici MIchele");
+		
+		System.out.println("Casole Emmanuel");
 	}
 }
